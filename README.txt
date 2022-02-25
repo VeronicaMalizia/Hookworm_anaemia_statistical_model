@@ -12,3 +12,4 @@ Each script will produce outputs to be used as input files in the next script, a
 on the name of the R files.
 
 R version used: 3.6.1
+Rstan package version 2.21.2
